@@ -1,6 +1,6 @@
 //  Transportation problem (North‑West Corner method)
 //  Author:  Mohammed .
-//  Course:  MATH 319 – Operations Research
+//  Course:  MATH 329 – Operations Research
 //  Year:    2022
 //  License: MIT
 
